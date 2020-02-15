@@ -1,0 +1,8 @@
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/CMakeFiles/rebuild_cache.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/CMakeFiles/edit_cache.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/Log_libs/CMakeFiles/rebuild_cache.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/Log_libs/CMakeFiles/edit_cache.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/Log_libs/CMakeFiles/Log_hello.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/main/CMakeFiles/rebuild_cache.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/main/CMakeFiles/edit_cache.dir
+/home/vanari/Documents/prog/c++/learningCmake/pr2/build/main/CMakeFiles/Project2.dir

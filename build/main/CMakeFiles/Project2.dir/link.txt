@@ -1,0 +1,1 @@
+/bin/g++     CMakeFiles/Project2.dir/main.cpp.o  -o Project2  ../Log_libs/libLog_hello.a -lSDL2 

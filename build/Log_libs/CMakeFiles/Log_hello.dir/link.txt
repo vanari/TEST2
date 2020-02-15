@@ -1,0 +1,2 @@
+/bin/ar qc libLog_hello.a  CMakeFiles/Log_hello.dir/Log_hello/src/Log_hello.cpp.o
+/bin/ranlib libLog_hello.a
